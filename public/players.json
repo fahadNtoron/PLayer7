@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "John Doe",
+        "country": "Country A",
+        "rating": 85,
+        "price": 150000,
+        "hand": "right",
+        "method": "left-hand-bating"
+    },
+    {
+        "id": 2,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "Alex Smith",
+        "country": "Country B",
+        "rating": 92,
+        "price": 200000,
+        "hand": "left",
+        "method": "wicket keeping"
+    },
+    {
+        "id": 3,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "Michael Brown",
+        "country": "Country C",
+        "rating": 78,
+        "price": 120000,
+        "hand": "right",
+        "method": "left-hand-bating"
+    },
+    {
+        "id": 4,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "David Wilson",
+        "country": "Country D",
+        "rating": 88,
+        "price": 180000,
+        "hand": "left",
+        "method": "right-hand-bowling"
+    },
+    {
+        "id": 5,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "Chris Johnson",
+        "country": "Country E",
+        "rating": 75,
+        "price": 110000,
+        "hand": "right",
+        "method": "wicket keeping"
+    },
+    {
+        "id": 6,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "Robert Garcia",
+        "country": "Country F",
+        "rating": 80,
+        "price": 130000,
+        "hand": "left",
+        "method": "left-hand-bating"
+    },
+    {
+        "id": 7,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "Daniel Martinez",
+        "country": "Country G",
+        "rating": 90,
+        "price": 210000,
+        "hand": "right",
+        "method": "right-hand-bowling"
+    },
+    {
+        "id": 8,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "Matthew Hernandez",
+        "country": "Country H",
+        "rating": 82,
+        "price": 140000,
+        "hand": "left",
+        "method": "right-hand-bating"
+    },
+    {
+        "id": 9,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "James Lee",
+        "country": "Country I",
+        "rating": 77,
+        "price": 115000,
+        "hand": "right",
+        "method": "wicket keeping"
+    },
+    {
+        "id": 10,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "Joshua Lopez",
+        "country": "Country J",
+        "rating": 89,
+        "price": 190000,
+        "hand": "left",
+        "method": "right-hand-bating"
+    },
+    {
+        "id": 11,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "Andrew Perez",
+        "country": "Country K",
+        "rating": 74,
+        "price": 105000,
+        "hand": "right",
+        "method": "right-hand-bowling"
+    },
+    {
+        "id": 12,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "Kevin Taylor",
+        "country": "Country L",
+        "rating": 81,
+        "price": 135000,
+        "hand": "left",
+        "method": "wicket keeping"
+    },
+    {
+        "id": 13,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "Brian Wilson",
+        "country": "Country M",
+        "rating": 86,
+        "price": 155000,
+        "hand": "right",
+        "method": "right-hand-bating"
+    },
+    {
+        "id": 14,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "Jason Anderson",
+        "country": "Country N",
+        "rating": 93,
+        "price": 205000,
+        "hand": "left",
+        "method": "wicket keeping"
+    },
+    {
+        "id": 15,
+        "player_img": "../src/assets/myAssets/player.jpg",
+        "name": "Thomas Robinson",
+        "country": "Country O",
+        "rating": 79,
+        "price": 125000,
+        "hand": "right",
+        "method": "right-hand-bowling"
+    }
+]

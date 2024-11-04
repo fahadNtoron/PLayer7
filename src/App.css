@@ -1,0 +1,15 @@
+.news{
+  background:
+  linear-gradient(to bottom left ,transparent 50%,#bbe6f9 150%),
+  linear-gradient(to bottom left,red -100%,white 50%);
+}
+.banner-backk{
+  background-image: url('./assets/myAssets/bg-shadow.png'), url('./assets/myAssets/bb.jpg');
+  background-size: cover, cover;
+  /* background-blend-mode:screen; */
+  background-position: center center, center center;
+  background-repeat: no-repeat, no-repeat;
+} 
+.visited{
+  background-color: black;
+}
